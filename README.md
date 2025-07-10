@@ -33,9 +33,10 @@ This project demonstrates a simple client-server chat application with a Man-In-
 - The MITM can be extended to modify, log, or block messages.
 - This project is for educational use only.
 
-## Authors
-- F3rren - Samuele Alessandro Di Silvestri
+## License
+Copyright (c) 2025, Created by F3rren - Samuele Alessandro Di Silvestri
 
+This project is for educational purposes.
 ---
 
 Feel free to modify and experiment with the code to better understand network security concepts!
